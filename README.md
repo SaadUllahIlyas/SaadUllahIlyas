@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SaadUllahIlyas
+- 👋 Hi, I’m @SaadUllahIlyas Managing Director @Soul Solutions
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Next JS which is tool chain for React JS or simply you can say frame work of React.
 - 💞️ I’m looking to collaborate on different kinds of technologies related to Web Development.
